@@ -1,7 +1,7 @@
-scipy
-random
-numpy
-matplotlib
-os
-tempfile 
-IPython.display
+import scipy
+import random
+import numpy
+import matplotlib
+import os
+import tempfile 
+import IPython.display
