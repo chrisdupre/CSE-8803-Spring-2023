@@ -1,5 +1,4 @@
 scipy
-pylab
 random
 numpy
 matplotlib
