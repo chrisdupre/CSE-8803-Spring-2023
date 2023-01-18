@@ -1,1 +1,8 @@
-scipy, pylab, random, numpy, matplotlib, os, tempfile , IPython.display
+scipy
+pylab
+random
+numpy
+matplotlib
+os
+tempfile 
+IPython.display
